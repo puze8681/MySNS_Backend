@@ -13,8 +13,11 @@ backend / node.js
 
 ###TimeLine Schema
 >post_name : String, 게시자의 이름입니다.
+
 >post_title : String, 게시물의 제목입니다.
+
 >post_time : String, 게시물의 게시 시간입니다.
+
 >post_context : String, 게시물의 내용입니다.
 
 ***
