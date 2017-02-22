@@ -19,3 +19,10 @@ backend / node.js
 >리퀘스트 파라미터
 >>user_id : 사용자 아이디입니다.
 >>user_pw : 사용자 비밀번호입니다.
+>>user_name : 사용자 이름입니다.
+*/login : 
+>리퀘스트 파라미터
+>>user_id : 사용자 아이디입니다.
+>>user_pw : 사용자 비밀번호입니다.
+>응답
+>>user data json
