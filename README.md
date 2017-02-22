@@ -32,7 +32,7 @@ backend / node.js
 
 >>user_name : 사용자 이름입니다.
 
-*/login : 
+*/login : 로그인
 >리퀘스트 파라미터
 >>user_id : 사용자 아이디입니다.
 
